@@ -19,3 +19,6 @@ The images hence inferred by GAN are stitched together and saved.
 
 Note: 
 It is an ongoing project, complete code and documentations will be provided later this year towards the end. Till then we are keeping this open for our reference. No rights are given for open usage of this code.
+
+My research insights a quick 5mins read:
+https://medium.com/@sadakhya/things-to-keep-in-mind-when-training-gan-and-what-i-realized-while-trying-to-improve-my-inference-63291e3ea6fc
